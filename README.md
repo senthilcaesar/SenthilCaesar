@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    🧠 Computer Science Professional &nbsp;|&nbsp; 🤖 AI Engineer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🔬 Biomedical Informatics Specialist
+    🧠 Computer Science Professional &nbsp;|&nbsp; 🤖 AI Engineer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;
   </samp>
 </p>
 
