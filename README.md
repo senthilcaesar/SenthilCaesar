@@ -24,7 +24,7 @@ My work focuses on applying AI and advanced analytics to solve real-world proble
 - 🔍 Analytic mindset and a deep passion for AI
 - 💡 Creative, curious, and innovative — I love exploring new ways to use data
 - 🚀 AI early adopter — I stay ahead of trends and love experimenting with new tools
-- 📘 Currently deepening expertise in **JavaScript**, **HTML/CSS**, **Docker**, and **AWS**
+- 📘 Currently deepening expertise in **TypeScript**, **React**, **HTML/CSS**, and **Automation**
 
 ---
 
