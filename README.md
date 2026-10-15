@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://SenthilCaesar.github.io/portfolio">💼 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://SenthilCaesar.github.io/">💼 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/senthil-palanivelu-0ba38844/">🔗 LinkedIn</a>
 </p>
 
